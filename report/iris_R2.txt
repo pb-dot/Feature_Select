@@ -1,0 +1,52 @@
+iris.csv dataset with (151, 5) size
+avg weight edge threshold:25.5 lower limit :0 upper limit :36
+precision:0.99722 acuracy:0.99697 with threshold:0 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:1 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:2 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:3 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:4 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:5 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:6 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:7 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:8 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:9 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:10 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:11 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:12 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:13 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:14 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:15 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:16 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:17 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:18 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:19 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:20 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:21 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:22 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:23 with features selected:[1, 2, 3] 
+precision:0.99722 acuracy:0.99697 with threshold:24 with features selected:[1, 2, 3] 
+precision:0.98654 acuracy:0.98485 with threshold:25 with features selected:[0, 3] 
+precision:0.98654 acuracy:0.98485 with threshold:26 with features selected:[0, 3] 
+precision:0.98654 acuracy:0.98485 with threshold:27 with features selected:[0, 3] 
+precision:0.95493 acuracy:0.94848 with threshold:28 with features selected:[1, 3] 
+precision:0.95728 acuracy:0.95152 with threshold:29 with features selected:[1, 3] 
+precision:0.95728 acuracy:0.95152 with threshold:30 with features selected:[1, 3] 
+precision:0.95728 acuracy:0.95152 with threshold:31 with features selected:[1, 3] 
+precision:0.95728 acuracy:0.95152 with threshold:32 with features selected:[1, 3] 
+precision:0.80450 acuracy:0.78485 with threshold:33 with features selected:[0] 
+precision:0.80950 acuracy:0.79091 with threshold:34 with features selected:[0] 
+precision:0.80450 acuracy:0.78485 with threshold:35 with features selected:[0] 
+[1, 2, 3] is selected feature columns with maximum precission:1.00
+[1, 2, 3] is selected feature columns with maximum accuracy:1.00
+features with both max accuracy and precission :[1, 2, 3]
+1 : Decision Tree Classifier accuracy: 1.00000 precission :1.00000
+2 : KNN Classifier accuracy: 1.00000 precission :1.00000
+3 : Logistic Regression Classifier accuracy: 1.00000 precission :1.00000
+4 : Naive Bayes Classifier accuracy: 1.00000 precission :1.00000
+5 : SVM Classifier accuracy: 1.00000 precission :1.00000
+6 : Random Forest Classifier accuracy: 1.00000 precission :1.00000
+7 : Gradient Boosting Classifier accuracy: 1.00000 precission :1.00000
+8 : AdaBoost Classifier accuracy: 1.00000 precission :1.00000
+9 : Gaussian Classifier accuracy: 1.00000 precission :1.00000
+10 : LDA Classifier accuracy: 1.00000 precission :1.00000
+11 : QDA Classifier accuracy: 0.96667 precission :0.96944

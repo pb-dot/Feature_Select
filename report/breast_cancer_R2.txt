@@ -1,0 +1,67 @@
+breast_cancer.csv dataset with (570, 31) size
+avg weight edge threshold:3087.782222222222 lower limit :0 upper limit :25005
+precision:0.95459 acuracy:0.95375 with threshold:0 with features selected:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29] 
+precision:0.94893 acuracy:0.94737 with threshold:500 with features selected:[2, 3, 13, 21, 22, 23] 
+precision:0.95534 acuracy:0.95375 with threshold:1000 with features selected:[2, 3, 13, 22, 23] 
+precision:0.95128 acuracy:0.94976 with threshold:1500 with features selected:[2, 3, 22, 23] 
+precision:0.95211 acuracy:0.95056 with threshold:2000 with features selected:[2, 3, 22, 23] 
+precision:0.94737 acuracy:0.94577 with threshold:2500 with features selected:[3, 22, 23] 
+precision:0.94023 acuracy:0.93780 with threshold:3000 with features selected:[3, 23] 
+precision:0.94102 acuracy:0.93860 with threshold:3500 with features selected:[3, 23] 
+precision:0.93947 acuracy:0.93700 with threshold:4000 with features selected:[3, 23] 
+precision:0.94182 acuracy:0.93939 with threshold:4500 with features selected:[3, 23] 
+precision:0.94180 acuracy:0.93939 with threshold:5000 with features selected:[3, 23] 
+precision:0.93942 acuracy:0.93700 with threshold:5500 with features selected:[3, 23] 
+precision:0.93872 acuracy:0.93620 with threshold:6000 with features selected:[3, 23] 
+precision:0.94025 acuracy:0.93780 with threshold:6500 with features selected:[3, 23] 
+precision:0.93941 acuracy:0.93700 with threshold:7000 with features selected:[3, 23] 
+precision:0.94023 acuracy:0.93780 with threshold:7500 with features selected:[3, 23] 
+precision:0.94180 acuracy:0.93939 with threshold:8000 with features selected:[3, 23] 
+precision:0.94023 acuracy:0.93780 with threshold:8500 with features selected:[3, 23] 
+precision:0.94023 acuracy:0.93780 with threshold:9000 with features selected:[3, 23] 
+precision:0.94023 acuracy:0.93780 with threshold:9500 with features selected:[3, 23] 
+precision:0.93941 acuracy:0.93700 with threshold:10000 with features selected:[3, 23] 
+precision:0.93951 acuracy:0.93700 with threshold:10500 with features selected:[3, 23] 
+precision:0.94102 acuracy:0.93860 with threshold:11000 with features selected:[3, 23] 
+precision:0.94020 acuracy:0.93780 with threshold:11500 with features selected:[3, 23] 
+precision:0.94180 acuracy:0.93939 with threshold:12000 with features selected:[3, 23] 
+precision:0.94109 acuracy:0.93860 with threshold:12500 with features selected:[3, 23] 
+precision:0.94025 acuracy:0.93780 with threshold:13000 with features selected:[3, 23] 
+precision:0.94114 acuracy:0.93860 with threshold:13500 with features selected:[3, 23] 
+precision:0.94025 acuracy:0.93780 with threshold:14000 with features selected:[3, 23] 
+precision:0.94102 acuracy:0.93860 with threshold:14500 with features selected:[3, 23] 
+precision:0.94025 acuracy:0.93780 with threshold:15000 with features selected:[3, 23] 
+precision:0.94020 acuracy:0.93780 with threshold:15500 with features selected:[3, 23] 
+precision:0.94025 acuracy:0.93780 with threshold:16000 with features selected:[3, 23] 
+precision:0.94102 acuracy:0.93860 with threshold:16500 with features selected:[3, 23] 
+precision:0.94114 acuracy:0.93860 with threshold:17000 with features selected:[3, 23] 
+precision:0.93947 acuracy:0.93700 with threshold:17500 with features selected:[3, 23] 
+precision:0.93736 acuracy:0.93461 with threshold:18000 with features selected:[23] 
+precision:0.93736 acuracy:0.93461 with threshold:18500 with features selected:[23] 
+precision:0.93651 acuracy:0.93381 with threshold:19000 with features selected:[23] 
+precision:0.93736 acuracy:0.93461 with threshold:19500 with features selected:[23] 
+precision:0.93736 acuracy:0.93461 with threshold:20000 with features selected:[23] 
+precision:0.93736 acuracy:0.93461 with threshold:20500 with features selected:[23] 
+precision:0.93736 acuracy:0.93461 with threshold:21000 with features selected:[23] 
+precision:0.93651 acuracy:0.93381 with threshold:21500 with features selected:[23] 
+precision:0.93736 acuracy:0.93461 with threshold:22000 with features selected:[23] 
+precision:0.93736 acuracy:0.93461 with threshold:22500 with features selected:[23] 
+precision:0.93736 acuracy:0.93461 with threshold:23000 with features selected:[23] 
+precision:0.93736 acuracy:0.93461 with threshold:23500 with features selected:[23] 
+precision:0.93736 acuracy:0.93461 with threshold:24000 with features selected:[23] 
+precision:0.93736 acuracy:0.93461 with threshold:24500 with features selected:[23] 
+precision:0.93651 acuracy:0.93381 with threshold:25000 with features selected:[23] 
+[2, 3, 13, 22, 23] is selected feature columns with maximum precission:0.96
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29] is selected feature columns with maximum accuracy:0.95
+features with both max accuracy and precission :[2, 3, 13, 22, 23]
+1 : Decision Tree Classifier accuracy: 0.94737 precission :0.94737
+2 : KNN Classifier accuracy: 0.94737 precission :0.94881
+3 : Logistic Regression Classifier accuracy: 0.97368 precission :0.97372
+4 : Naive Bayes Classifier accuracy: 0.95614 precission :0.95903
+5 : SVM Classifier accuracy: 0.94737 precission :0.95147
+6 : Random Forest Classifier accuracy: 0.97368 precission :0.97372
+7 : Gradient Boosting Classifier accuracy: 0.94737 precission :0.94842
+8 : AdaBoost Classifier accuracy: 0.96491 precission :0.96678
+9 : Gaussian Classifier accuracy: 0.92982 precission :0.92974
+10 : LDA Classifier accuracy: 0.95614 precission :0.95903
+11 : QDA Classifier accuracy: 0.95614 precission :0.95903

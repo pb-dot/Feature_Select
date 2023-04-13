@@ -1,0 +1,74 @@
+bank_notes.csv dataset with (1373, 5) size
+avg weight edge threshold:175.0 lower limit :0 upper limit :290
+precision:0.86411 acuracy:0.86413 with threshold:0 with features selected:[1, 2, 3] 
+precision:0.86286 acuracy:0.86281 with threshold:5 with features selected:[1, 2, 3] 
+precision:0.86379 acuracy:0.86380 with threshold:10 with features selected:[1, 2, 3] 
+precision:0.86350 acuracy:0.86347 with threshold:15 with features selected:[1, 2, 3] 
+precision:0.86383 acuracy:0.86380 with threshold:20 with features selected:[1, 2, 3] 
+precision:0.86379 acuracy:0.86380 with threshold:25 with features selected:[1, 2, 3] 
+precision:0.86347 acuracy:0.86347 with threshold:30 with features selected:[1, 2, 3] 
+precision:0.86379 acuracy:0.86380 with threshold:35 with features selected:[1, 2, 3] 
+precision:0.86411 acuracy:0.86413 with threshold:40 with features selected:[1, 2, 3] 
+precision:0.86413 acuracy:0.86413 with threshold:45 with features selected:[1, 2, 3] 
+precision:0.86417 acuracy:0.86413 with threshold:50 with features selected:[1, 2, 3] 
+precision:0.86348 acuracy:0.86347 with threshold:55 with features selected:[1, 2, 3] 
+precision:0.86477 acuracy:0.86479 with threshold:60 with features selected:[1, 2, 3] 
+precision:0.86445 acuracy:0.86446 with threshold:65 with features selected:[1, 2, 3] 
+precision:0.86381 acuracy:0.86380 with threshold:70 with features selected:[1, 2, 3] 
+precision:0.86414 acuracy:0.86413 with threshold:75 with features selected:[1, 2, 3] 
+precision:0.86381 acuracy:0.86380 with threshold:80 with features selected:[1, 2, 3] 
+precision:0.86413 acuracy:0.86413 with threshold:85 with features selected:[1, 2, 3] 
+precision:0.86349 acuracy:0.86347 with threshold:90 with features selected:[1, 2, 3] 
+precision:0.86413 acuracy:0.86413 with threshold:95 with features selected:[1, 2, 3] 
+precision:0.86416 acuracy:0.86413 with threshold:100 with features selected:[1, 2, 3] 
+precision:0.86347 acuracy:0.86347 with threshold:105 with features selected:[1, 2, 3] 
+precision:0.86249 acuracy:0.86248 with threshold:110 with features selected:[1, 2, 3] 
+precision:0.86381 acuracy:0.86380 with threshold:115 with features selected:[1, 2, 3] 
+precision:0.86411 acuracy:0.86413 with threshold:120 with features selected:[1, 2, 3] 
+precision:0.86320 acuracy:0.86314 with threshold:125 with features selected:[1, 2, 3] 
+precision:0.81726 acuracy:0.81686 with threshold:130 with features selected:[1, 2] 
+precision:0.81759 acuracy:0.81719 with threshold:135 with features selected:[1, 2] 
+precision:0.81798 acuracy:0.81752 with threshold:140 with features selected:[1, 2] 
+precision:0.81730 acuracy:0.81686 with threshold:145 with features selected:[1, 2] 
+precision:0.81564 acuracy:0.81521 with threshold:150 with features selected:[1, 2] 
+precision:0.81827 acuracy:0.81785 with threshold:155 with features selected:[1, 2] 
+precision:0.81663 acuracy:0.81620 with threshold:160 with features selected:[1, 2] 
+precision:0.81661 acuracy:0.81620 with threshold:165 with features selected:[1, 2] 
+precision:0.81728 acuracy:0.81686 with threshold:170 with features selected:[1, 2] 
+precision:0.81663 acuracy:0.81620 with threshold:175 with features selected:[1, 2] 
+precision:0.81664 acuracy:0.81620 with threshold:180 with features selected:[1, 2] 
+precision:0.81633 acuracy:0.81587 with threshold:185 with features selected:[1, 2] 
+precision:0.81729 acuracy:0.81686 with threshold:190 with features selected:[1, 2] 
+precision:0.81726 acuracy:0.81686 with threshold:195 with features selected:[1, 2] 
+precision:0.81794 acuracy:0.81752 with threshold:200 with features selected:[1, 2] 
+precision:0.81693 acuracy:0.81653 with threshold:205 with features selected:[1, 2] 
+precision:0.81636 acuracy:0.81587 with threshold:210 with features selected:[1, 2] 
+precision:0.81694 acuracy:0.81653 with threshold:215 with features selected:[1, 2] 
+precision:0.81759 acuracy:0.81719 with threshold:220 with features selected:[1, 2] 
+precision:0.67953 acuracy:0.67868 with threshold:225 with features selected:[1] 
+precision:0.67951 acuracy:0.67868 with threshold:230 with features selected:[1] 
+precision:0.67953 acuracy:0.67868 with threshold:235 with features selected:[1] 
+precision:0.67985 acuracy:0.67901 with threshold:240 with features selected:[1] 
+precision:0.67953 acuracy:0.67868 with threshold:245 with features selected:[1] 
+precision:0.67985 acuracy:0.67901 with threshold:250 with features selected:[1] 
+precision:0.67985 acuracy:0.67901 with threshold:255 with features selected:[1] 
+precision:0.67985 acuracy:0.67901 with threshold:260 with features selected:[1] 
+precision:0.67985 acuracy:0.67901 with threshold:265 with features selected:[1] 
+precision:0.67985 acuracy:0.67901 with threshold:270 with features selected:[1] 
+precision:0.67951 acuracy:0.67868 with threshold:275 with features selected:[1] 
+precision:0.67953 acuracy:0.67868 with threshold:280 with features selected:[1] 
+precision:0.67951 acuracy:0.67868 with threshold:285 with features selected:[1] 
+[1, 2, 3] is selected feature columns with maximum precission:0.86
+[1, 2, 3] is selected feature columns with maximum accuracy:0.86
+features with both max accuracy and precission :[1, 2, 3]
+1 : Decision Tree Classifier accuracy: 0.92364 precission :0.92371
+2 : KNN Classifier accuracy: 0.95273 precission :0.95320
+3 : Logistic Regression Classifier accuracy: 0.83273 precission :0.83338
+4 : Naive Bayes Classifier accuracy: 0.54182 precission :0.53208
+5 : SVM Classifier accuracy: 0.90545 precission :0.91173
+6 : Random Forest Classifier accuracy: 0.94545 precission :0.94558
+7 : Gradient Boosting Classifier accuracy: 0.92727 precission :0.92785
+8 : AdaBoost Classifier accuracy: 0.87273 precission :0.87268
+9 : Gaussian Classifier accuracy: 0.94909 precission :0.94936
+10 : LDA Classifier accuracy: 0.83273 precission :0.83392
+11 : QDA Classifier accuracy: 0.82545 precission :0.82545

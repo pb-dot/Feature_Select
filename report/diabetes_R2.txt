@@ -1,0 +1,55 @@
+diabetes.csv dataset with (768, 9) size
+avg weight edge threshold:1729.625 lower limit :0 upper limit :3830
+precision:0.76319 acuracy:0.76269 with threshold:0 with features selected:[1, 2, 3, 4, 5, 6, 7] 
+precision:0.76123 acuracy:0.76033 with threshold:100 with features selected:[1, 2, 3, 4, 5, 6, 7] 
+precision:0.75350 acuracy:0.75266 with threshold:200 with features selected:[1, 2, 3, 4, 5, 7] 
+precision:0.75403 acuracy:0.75325 with threshold:300 with features selected:[1, 2, 3, 4, 5, 7] 
+precision:0.75542 acuracy:0.75502 with threshold:400 with features selected:[1, 2, 3, 4, 5, 7] 
+precision:0.75268 acuracy:0.75207 with threshold:500 with features selected:[1, 2, 3, 4, 5, 7] 
+precision:0.74986 acuracy:0.75030 with threshold:600 with features selected:[0, 1, 2, 4, 6, 7] 
+precision:0.74231 acuracy:0.74439 with threshold:700 with features selected:[0, 1, 2, 4, 6] 
+precision:0.76450 acuracy:0.76505 with threshold:800 with features selected:[1, 2, 4, 5, 7] 
+precision:0.74611 acuracy:0.74911 with threshold:900 with features selected:[1, 2, 4, 7] 
+precision:0.71081 acuracy:0.71370 with threshold:1000 with features selected:[1, 2, 4] 
+precision:0.70706 acuracy:0.70956 with threshold:1100 with features selected:[1, 2, 4] 
+precision:0.71012 acuracy:0.71311 with threshold:1200 with features selected:[1, 2, 4] 
+precision:0.70814 acuracy:0.71133 with threshold:1300 with features selected:[1, 2, 4] 
+precision:0.70984 acuracy:0.71311 with threshold:1400 with features selected:[1, 2, 4] 
+precision:0.71009 acuracy:0.71311 with threshold:1500 with features selected:[1, 2, 4] 
+precision:0.70726 acuracy:0.71074 with threshold:1600 with features selected:[1, 2, 4] 
+precision:0.70734 acuracy:0.71015 with threshold:1700 with features selected:[1, 2, 4] 
+precision:0.70976 acuracy:0.71251 with threshold:1800 with features selected:[1, 2, 4] 
+precision:0.71796 acuracy:0.72019 with threshold:1900 with features selected:[1, 4, 6] 
+precision:0.70776 acuracy:0.71192 with threshold:2000 with features selected:[1, 4] 
+precision:0.71041 acuracy:0.71488 with threshold:2100 with features selected:[1, 4] 
+precision:0.70843 acuracy:0.71251 with threshold:2200 with features selected:[1, 4] 
+precision:0.70919 acuracy:0.71311 with threshold:2300 with features selected:[1, 4] 
+precision:0.70659 acuracy:0.71074 with threshold:2400 with features selected:[1, 4] 
+precision:0.70780 acuracy:0.71133 with threshold:2500 with features selected:[1, 4] 
+precision:0.70772 acuracy:0.71192 with threshold:2600 with features selected:[1, 4] 
+precision:0.71014 acuracy:0.71429 with threshold:2700 with features selected:[1, 4] 
+precision:0.70776 acuracy:0.71192 with threshold:2800 with features selected:[1, 4] 
+precision:0.70971 acuracy:0.71429 with threshold:2900 with features selected:[1, 4] 
+precision:0.70940 acuracy:0.71370 with threshold:3000 with features selected:[1, 4] 
+precision:0.70916 acuracy:0.71370 with threshold:3100 with features selected:[1, 4] 
+precision:0.70889 acuracy:0.71311 with threshold:3200 with features selected:[1, 4] 
+precision:0.70990 acuracy:0.71429 with threshold:3300 with features selected:[1, 4] 
+precision:0.56665 acuracy:0.60272 with threshold:3400 with features selected:[4, 6] 
+precision:0.55708 acuracy:0.60035 with threshold:3500 with features selected:[4] 
+precision:0.55708 acuracy:0.60035 with threshold:3600 with features selected:[4] 
+precision:0.55634 acuracy:0.59976 with threshold:3700 with features selected:[4] 
+precision:0.55564 acuracy:0.59917 with threshold:3800 with features selected:[4] 
+[1, 2, 4, 5, 7] is selected feature columns with maximum precission:0.76
+[1, 2, 4, 5, 7] is selected feature columns with maximum accuracy:0.77
+features with both max accuracy and precission :[1, 2, 4, 5, 7]
+1 : Decision Tree Classifier accuracy: 0.73377 precission :0.73946
+2 : KNN Classifier accuracy: 0.77273 precission :0.77359
+3 : Logistic Regression Classifier accuracy: 0.79870 precission :0.79610
+4 : Naive Bayes Classifier accuracy: 0.72727 precission :0.72095
+5 : SVM Classifier accuracy: 0.78571 precission :0.78418
+6 : Random Forest Classifier accuracy: 0.79221 precission :0.79221
+7 : Gradient Boosting Classifier accuracy: 0.78571 precission :0.78499
+8 : AdaBoost Classifier accuracy: 0.77922 precission :0.77583
+9 : Gaussian Classifier accuracy: 0.67532 precission :0.68040
+10 : LDA Classifier accuracy: 0.80519 precission :0.80284
+11 : QDA Classifier accuracy: 0.77922 precission :0.77599
